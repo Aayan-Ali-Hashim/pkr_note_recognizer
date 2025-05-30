@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Aayan-Ali-Hashim/pkr_note_recognizer_frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Aayan-Ali-Hashim/pkr_note_recognizer_backend.git
