@@ -39,7 +39,7 @@ The PKR Note Recognizer is a full-stack machine learning project that allows use
 
 ## 📸 Demo
 
-![Demo Screenshot](/Screenshot from 2025-05-31 01-56-34.png)
+![Demo Screenshot](/ss.png)
 
 
 ---
