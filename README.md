@@ -39,9 +39,8 @@ The PKR Note Recognizer is a full-stack machine learning project that allows use
 
 ## 📸 Demo
 
-![Demo Screenshot](/)
+![Demo Screenshot](/Screenshot from 2025-05-31 01-56-34.png)
 
-> *(Insert your own image or GIF showing the app in action)*
 
 ---
 
@@ -49,10 +48,10 @@ The PKR Note Recognizer is a full-stack machine learning project that allows use
 
 | Layer      | Technology                     |
 |------------|--------------------------------|
-| Frontend   | HTML/CSS/JavaScript *(or React)* |
+| Frontend   |  React
 | Backend    | Flask (Python)                 |
 | Model      | MobileNetV2 (TensorFlow/Keras) |
-| Deployment | *(e.g., Render, Heroku, Vercel)* |
+| Deployment | Render,Vercel                  |
 
 ---
 
